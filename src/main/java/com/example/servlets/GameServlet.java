@@ -73,4 +73,4 @@ public class GameServlet extends HttpServlet {
             request.getRequestDispatcher("/index.jsp").forward(request, response);
         }
     }
-} {}
+}
